@@ -1,7 +1,7 @@
 # Bonnie Plottner
-617-956-2526
-Bothell, WA
-bplottner@yahoo.com
+617-956-2526  
+Bothell, WA  
+bplottner@yahoo.com  
 
 ## Work Experience:
 **2011-2012 Hitachi Data Systems, Bellevue, WA, Project Lead**
@@ -28,10 +28,10 @@ bplottner@yahoo.com
 **1998–2001 ChannelWave Software, Inc., Cambridge, MA, Software Applications Engineer**
 
 ## Technical Skills:
-Languages: C#, Java, XML, JavaScript
-Databases: MS SQL Server, MySQL
-Systems: Windows
-Web Skills: ASP, HTML
+Languages: C#, Java, XML, JavaScript  
+Databases: MS SQL Server, MySQL  
+Systems: Windows  
+Web Skills: ASP, HTML  
 
 ## Education: 
 Macalester College, St. Paul, MN, 1996, BA in Computer Science and Philosophy (Summa cum Laude, Phi Beta Kappa)
